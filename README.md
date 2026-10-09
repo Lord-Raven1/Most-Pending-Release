@@ -44,7 +44,7 @@ Use **Settings → Send Feedback** in the app, or [open an issue](https://github
 
 | File | What it is |
 |---|---|
-| `MostPending-win-Setup.exe` | The installer — this is the one you want. |
-| `MostPending-win-Portable.zip` | Runs without installing — unzip it and start `Most Pending.exe`. |
+| `MostPending-win-Setup.exe` | The installer - this is the one you want. |
+| `MostPending-win-Portable.zip` | Runs without installing - unzip it and start `Most Pending.exe`. |
 | `*.nupkg`, `RELEASES`, `releases.win.json` | Update packages used by the app itself. |
 | Source code (zip / tar.gz) | Added automatically by GitHub; contains only this README, not the app. |
