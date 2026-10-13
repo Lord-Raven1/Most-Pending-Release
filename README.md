@@ -11,7 +11,7 @@ This repository only hosts the **installer and automatic updates**. The source c
 - **Weekly routines**, a **shopping list** and **quick reminders**.
 - **Focus timer** (countdown or open-ended) that logs time against tasks, with weekly/monthly stats.
 - **Runs in the system tray** so reminders keep coming when the window is closed; optional *Start with Windows*.
-- **Updates itself** new versions download in the background and install when you restart.
+- **Updates itself:** new versions download in the background and install when you restart.
 
 ## Install
 
@@ -44,7 +44,15 @@ Use **Settings → Send Feedback** in the app, or [open an issue](https://github
 
 | File | What it is |
 |---|---|
-| `MostPending-win-Setup.exe` | The installer - this is the one you want. |
+| `MostPending-win-Setup.exe` | The installer: this is the one you want. |
 | `MostPending-win-Portable.zip` | Runs without installing - unzip it and start `Most Pending.exe`. |
 | `*.nupkg`, `RELEASES`, `releases.win.json` | Update packages used by the app itself. |
 | Source code (zip / tar.gz) | Added automatically by GitHub; contains only this README, not the app. |
+
+## Licence and privacy
+
+© 2026 Lord-Raven1. All rights reserved.
+
+- **[LICENSE](LICENSE):** Most-Pending is free to use, but not to sell, modify or redistribute (share the link to this page instead). It's provided as is.
+- **[PRIVACY.md](PRIVACY.md):** your data stays on your PC; the only things the app sends are the update check and feedback you choose to submit.
+- **[THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md):** the open-source parts it's built on (ModernWpfUI, Velopack, .NET), which keep their own licences, plus credits for the icon and alarm sound.
