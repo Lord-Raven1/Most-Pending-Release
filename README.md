@@ -1,12 +1,14 @@
 # Most-Pending
 
-**Most-Pending** is a free Windows desktop app for keeping track of what's coming up: tasks with due dates, weekly routines, a shopping list, quick reminders and a focus timer, all in one dark-themed window.
+**Most-Pending** is a free Windows desktop app for keeping track of what's coming up: tasks with due dates and a calendar, weekly routines, a shopping list, quick reminders and a focus timer, all in one dark-themed window.
 
 This repository only hosts the **installer and automatic updates**. The source code is kept in a separate, private repository.
 
 ## Features
 
 - **Timeline** of tasks with due dates, priorities, colour-coded tags and sub-tags (e.g. *Work › Slides*), plus filters and bulk actions.
+- **Calendar** (2.0): List, Month, Week and *Today & missed* views of the same tasks. Drag tasks onto days and times, book **work sessions** to get things done, and focus on them with a timer.
+- **Repeating tasks** (every day, weekly, monthly and more), shown ahead on the calendar.
 - **Reminders** as Windows notifications, from a week before a task is due down to the last 5 minutes.
 - **Weekly routines**, a **shopping list** and **quick reminders**.
 - **Focus timer** (countdown or open-ended) that logs time against tasks, with weekly/monthly stats.
