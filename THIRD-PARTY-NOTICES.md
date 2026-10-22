@@ -12,9 +12,9 @@ not under Most-Pending's licence.
 
 ## Artwork and sound
 
-- **App icon:** [Clipboard icons created by Muhammad Atif - Flaticon](https://www.flaticon.com/free-icons/clipboard),
-  used under the [Flaticon free licence](https://www.flaticon.com/legal), which
-  requires this credit.
+- **App icon:** Most-Pending's own design (since 2.1.0-beta.7). Versions
+  before that used [Clipboard icons created by Muhammad Atif - Flaticon](https://www.flaticon.com/free-icons/clipboard)
+  under the [Flaticon free licence](https://www.flaticon.com/legal).
 - **Alarm sound:** by [microsammy on Pixabay](https://pixabay.com/users/microsammy-22905943/),
   used under the [Pixabay Content License](https://pixabay.com/service/license-summary/).
 
