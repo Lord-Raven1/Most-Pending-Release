@@ -7,10 +7,12 @@ This repository only hosts the **installer and automatic updates**. The source c
 ## Features
 
 - **Timeline** of tasks with due dates, priorities, colour-coded tags and sub-tags (e.g. *Work › Slides*), plus filters and bulk actions.
-- **Calendar** (2.0): List, Month, Week and *Today & missed* views of the same tasks. Drag tasks onto days and times, book **work sessions** to get things done, and focus on them with a timer.
+- **Calendar** (2.0): List, Month, Week and *Today & missed* views of the same tasks. Drag tasks onto days and times, book **work sessions** (once, or repeating daily or weekly) to get things done, and focus on them with a timer.
+- **Block out time** (2.1) for meetings and other busy time, **tasks over a time** (e.g. 8–10am), a **daily work limit** and warnings when bookings overlap.
+- **Time's up alarm:** when booked work time runs out, an alarm, a notification and a flashing taskbar button keep reminding you until you add time or finish.
 - **Repeating tasks** (every day, weekly, monthly and more), shown ahead on the calendar.
 - **Reminders** as Windows notifications, from a week before a task is due down to the last 5 minutes.
-- **Weekly routines**, a **shopping list** and **quick reminders**.
+- **Weekly routines**, a **shopping list**, **quick reminders** and **subscriptions** (renewal reminders, amounts hidden by default).
 - **Focus timer** (countdown or open-ended) that logs time against tasks, with weekly/monthly stats.
 - **Runs in the system tray** so reminders keep coming when the window is closed; optional *Start with Windows*.
 - **Updates itself:** new versions download in the background and install when you restart.
@@ -26,6 +28,12 @@ This repository only hosts the **installer and automatic updates**. The source c
 ## Updates
 
 Most-Pending checks this repository for a new version shortly after it starts and every few hours, downloads it in the background, and asks before restarting to install it. You can also use **Settings → Check for Updates**. After an update, a *What's New* screen lists the changes.
+
+## Beta versions
+
+Want to try new things early? Tick **Settings → Get beta updates**. Betas show up as *Pre-release* on the [releases page](https://github.com/Lord-Raven1/Most-Pending-Release/releases) and can have bugs, so save a backup first (**Settings → Export All Data**).
+
+The current beta is **3.0**, a full redesign: a new look, a Today screen, a Focus screen, an Everyday panel for routines and subscriptions, easier time and date pickers, and appearance and accessibility settings. If it's not for you, **Settings → About → Go back to the stable version** returns you to 2.x with your data kept.
 
 ## Your data
 
